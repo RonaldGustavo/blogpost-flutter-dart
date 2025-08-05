@@ -11,6 +11,6 @@ A cross-platform mobile application built with Flutter, designed for reading blo
 
 Here is the UI of this Blog Posts Ronald:
 
-![Blog post screen](https://github.com/RonaldGustavo/blogpost-flutter-dart/tree/master/assets/images/blogpost.png)
+![Blog post screen](https://github.com/RonaldGustavo/blogpost-flutter-dart/blob/master/assets/images/blogpost.png)
 
-![Profile post screen](https://github.com/RonaldGustavo/blogpost-flutter-dart/tree/master/assets/images/profile.png)
+![Profile post screen](https://github.com/RonaldGustavo/blogpost-flutter-dart/blob/master/assets/images/profile.png)
