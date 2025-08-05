@@ -1,16 +1,16 @@
-# flutter_blogpost_ronald
+# 🌟 Welcome to My Blog Posts Ronald!
 
-A new Flutter project.
+A cross-platform mobile application built with Flutter, designed for reading blog posts on both iOS and Android devices.
 
-## Getting Started
+## 🚀 Tech Stack Used
 
-This project is a starting point for a Flutter application.
+- **Dart** – Modern and expressive language optimized for UI  
+- **Flutter** – UI toolkit for building natively compiled apps  
 
-A few resources to get you started if this is your first Flutter project:
+## ✨ UI Preview
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+Here is the UI of this Blog Posts Ronald:
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![Blog post screen](https://github.com/RonaldGustavo/blogpost-flutter-dart/tree/master/assets/images/blogpost.png)
+
+![Profile post screen](https://github.com/RonaldGustavo/blogpost-flutter-dart/tree/master/assets/images/profile.png)
